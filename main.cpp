@@ -17,6 +17,8 @@ int main(int argc, char** argv) {
     
     // Write articles for beginners about a development of a program in C++,
     // Java, C#
+    
+    // Enroll in massage courses.
     return 0;
 }
 
